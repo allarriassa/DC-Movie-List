@@ -1,0 +1,34 @@
+ul{
+list-style-type : none;
+margin : 0;
+overflow : hidden;
+background-color : #150050;	
+}
+
+h1{
+	display : block;
+	color : white;
+	text-align : center;
+}
+
+li{
+float : right;
+}
+li a{
+	display : block;
+	color : white;
+	text-align : center;
+	padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.container {
+  float: left;
+  width: 30%;
+  padding: 7.5px;
+}
+
+.imgContainer {
+     position: absolute;
+}
